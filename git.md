@@ -17,7 +17,7 @@
 `git add 目标文件`  
 `git commit -m "first"`  
 ## 创建项目
-在github中添加一个项目，带README.md的,复制ssh
+在github中创建一个项目，带README.md的,复制ssh
 ## 上传
 `git remote add origin 复制的ssh`  
 `git branch -m main`  
